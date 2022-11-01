@@ -1,0 +1,6 @@
+{
+    "extends" : ["react-app"], // on etend la configuration de base de react-app - on peut importer une autre genre airbnb
+    "rules" : {
+
+    }
+}
