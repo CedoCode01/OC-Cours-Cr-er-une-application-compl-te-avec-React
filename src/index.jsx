@@ -18,7 +18,7 @@ ReactDOM.render(
           <Route path="/survey/:questionNumber">
             <Survey />
           </Route>
-          <Route exact path="/freelance" >
+          <Route exact path="/freelances" >
             <Freelances />
           </Route>
           <Route exact path="/results" >
